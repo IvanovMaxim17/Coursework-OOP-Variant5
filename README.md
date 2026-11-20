@@ -23,3 +23,5 @@
 * **Сервіси (`Services/`):**
   * `HotelService` — управління номерами, гостями, послугами та бронюваннями.
   * `JsonFileService<T>` — автоматичне завантаження та збереження даних у JSON-файли (`System.Text.Json`).
+## Діаграма класів
+<img width="8390" height="4670" alt="mermaid-diagram-2026-11-20-231612" src="https://github.com/user-attachments/assets/e84aaa71-ba5a-4ecd-9609-cc8c9198d249" />
